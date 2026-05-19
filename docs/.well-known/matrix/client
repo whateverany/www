@@ -1,0 +1,8 @@
+{
+  "m.homeserver": {
+    "base_url": "https://m.whateverany.com"
+  },
+  "org.matrix.msc3575.proxy": {
+    "url": "https://m.whateverany.com"
+  }
+}
